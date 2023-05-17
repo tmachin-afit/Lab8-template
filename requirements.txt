@@ -1,0 +1,17 @@
+# make sure there were installed by the base
+# numpy
+# tensorflow-gpu==2.7.0
+
+# tensorflow-probability~=0.15.0
+tensorflow-probability
+sklearn
+pandas
+matplotlib
+h5py
+Pillow
+pydot
+graphviz
+
+opencv-python
+
+tqdm
