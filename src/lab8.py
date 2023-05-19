@@ -226,7 +226,7 @@ def build_model_fancy(seq_len: int,
 
 
 def main():
-    file_root = os.path.join("/opt", "data", "Oxford Inertial Tracking Dataset")
+    file_root = os.path.join("/opt", "data", "Oxford_Inertial_Tracking_Dataset")
 
     vicon_column_names: typing.List[str] = "Time Header translation.x translation.y translation.z " \
                                            "rotation.x rotation.y rotation.z rotation.w".split(
